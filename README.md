@@ -1,4 +1,4 @@
-# Customer Churn Prediction — Extended ML Project
+# Customer Churn Prediction 
 
 An end-to-end churn prediction pipeline on the **IBM Telco Customer Churn dataset** (7,032 customers, 19 features). Goes beyond a baseline model by adding EDA, class-imbalance handling, a third model (XGBoost), hyperparameter tuning, and visualizations.
 
