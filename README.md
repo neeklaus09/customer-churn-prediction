@@ -40,7 +40,7 @@ pip install pandas scikit-learn xgboost imbalanced-learn matplotlib seaborn
 python churn_extended.py
 ```
 
-Place `telco.csv` (IBM Telco Customer Churn dataset) in the same folder — available on [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
+Place `telco.csv` (IBM Telco Customer Churn dataset) in the same folder , available on [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
 ## Tech stack
 
